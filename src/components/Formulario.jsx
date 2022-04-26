@@ -9,7 +9,7 @@ const Formulario = () => {
     const[item4, setItem4] = React.useState('')
     const[item5, setItem5] = React.useState('')
     const[item6, setItem6] = React.useState('')
-    const imagen = 'https://picsum.photos/30'
+    
     
     const[lista, setLista] = React.useState([])
     const [modoEdicion, setModoEdicion] = React.useState(false)
